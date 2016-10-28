@@ -1,0 +1,11 @@
+.DS_Store
+.classpath
+.project
+.settings
+.gradle
+disconf/
+.idea/
+target/
+*.iml
+build-eclipse
+build

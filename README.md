@@ -23,13 +23,17 @@
 并发性  | 多条配置要同时生效时，无法解决并发同时生效的问题  |  基于注解式的配置，可以解决并发性问题  | 无
 
 ## 架构设计
+
 * 集群模式
+
 ![架构设计](http://ww1.sinaimg.cn/bmiddle/60c9620fgw1ehi7wwkdtoj20nw0fz0uh.jpg)
 
 * 模块设计
+
 ![模块设计](http://ww1.sinaimg.cn/bmiddle/60c9620fjw1eqi7cnhjp0j20e4097wfq.jpg)
 
 * 配置获取流程
+
 ![配置加载流程](http://ww1.sinaimg.cn/bmiddle/60c9620fjw1eqj9zzgc7yj20b20pn41v.jpg)
 
 ## 部署步骤

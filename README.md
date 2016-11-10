@@ -39,11 +39,11 @@
 ## 部署步骤
 
 * 安装依赖软件
-   安装Mysql（>=5）
-   安装Tomcat（apache-tomcat-7.0.50）
-   安装Nginx（nginx/1.5.3）
-   安装 zookeeeper （zookeeper-3.3.0）
-   安装 Redis （2.4.5）
+   - 安装Mysql（>=5）
+   - 安装Tomcat（apache-tomcat-7.0.50）
+   - 安装Nginx（nginx/1.5.3）
+   - 安装 zookeeeper （zookeeper-3.3.0）
+   - 安装 Redis （2.4.5）
 
 * Git clone 代码
     (https://github.com/knightliao/disconf.git)[https://github.com/knightliao/disconf.git]

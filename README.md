@@ -49,10 +49,10 @@
     (https://github.com/knightliao/disconf.git)[https://github.com/knightliao/disconf.git]
 
 * 设置disconf配置目录和war输出目录，拷贝修改数据库，zk，redis及app配置：
-    jdbc-mysql.properties (数据库配置) 
-    redis-config.properties (Redis配置，主要用于web登录使用) 
-    zoo.properties (Zookeeper配置
-    application.properties (应用配置）
+   - jdbc-mysql.properties (数据库配置) 
+   - redis-config.properties (Redis配置，主要用于web登录使用) 
+   - zoo.properties (Zookeeper配置
+   - application.properties (应用配置）
 
 * 构建部署包
 ```

@@ -48,7 +48,7 @@ public class SimpleRedisService implements InitializingBean, DisposableBean {
      */
     public String getKey(String key) {
         if (jedis != null) {
-            return jedis.get(key);
+//            return jedis.get(key);
         }
 
         return null;
